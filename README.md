@@ -1,3 +1,5 @@
+# Consolidated into mono-repo, [bls-wallet](https://github.com/jzaki/bls-wallet/)
+
 # Quill - easy, fast, and low-cost Ethereum transactions
 ## Overview
 Interaction with web3 applications can be slow, costly, and risky.
